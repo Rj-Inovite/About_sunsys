@@ -1,6 +1,11 @@
-# TODO List for Banner Section Update
+# TODO for Enhancing Why Us Page Animations
 
-- [x] Update slidingTexts array in App.jsx to include original and new phrases
-- [x] Modify sliding animation in App.jsx to fix overlapping text (use sequential fade without absolute positioning)
-- [x] Edit App.css to shift banner section text towards the left (change text-align and add left margin)
-- [x] Test the animation and alignment in the browser
+## Sliding Animations on Scroll
+- [ ] Modify `fadeIn` variant to include horizontal sliding (alternate left/right for benefit cards)
+- [ ] Update CTA section to slide in from bottom or side
+
+## Text Animations
+- [ ] Add letter-by-letter animation with stagger to the main page title in header section
+
+## Testing
+- [ ] Test scroll-triggered animations to ensure they trigger correctly
